@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./ascii-portrait.svg" width="300" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./projects.svg" width="550" alt="Projects" /></td>
+    <td valign="top"><a href="https://dropkaro.online"><img src="./projects.svg" width="550" alt="Projects" /></a></td>
   </tr>
 </table>
 

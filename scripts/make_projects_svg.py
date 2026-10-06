@@ -10,7 +10,7 @@ SEPS = [48, 236, 352, 440]
 # (name, description, url, status, progress %)   status: "online" or "building"
 PROJECTS = [
     ("BrandNewFraud", "Fraud evidence management", "-", "building", 70),
-    ("DropKaro", "Secure file & text sharing", "https://dropkaro.online", "online", 100),
+    ("DropKaro", "Secure file & text sharing", "dropkaro.online", "online", 100),
     ("StoleBooks", "Used books marketplace", "-", "building", 55),
     ("KIITGo", "In development", "-", "building", 25),
 ]
