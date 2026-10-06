@@ -420,11 +420,11 @@ text  { font-family: Consolas, 'Courier New', monospace; fill: #8b949e; font-siz
 <rect class="c" x="801" y="146" width="12" height="12" rx="3" fill="#006d32" style="animation-delay:1.14s;"><title>3 contributions on 2026-10-03</title></rect>
 <rect class="c" x="816" y="56" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.04s;"><title>0 contributions on 2026-10-04</title></rect>
 <rect class="c" x="816" y="71" width="12" height="12" rx="3" fill="#161b22" style="animation-delay:1.06s;"><title>0 contributions on 2026-10-05</title></rect>
-<rect class="c" x="816" y="86" width="12" height="12" rx="3" fill="#0e4429" style="animation-delay:1.08s;"><title>2 contributions on 2026-10-06</title></rect>
+<rect class="c" x="816" y="86" width="12" height="12" rx="3" fill="#26a641" style="animation: pop 0.5s ease-out 1.08s forwards, twinkle 3s ease-in-out 2.58s infinite;"><title>8 contributions on 2026-10-06</title></rect>
 <g clip-path="url(#grid)">
 <rect class="beam" x="-44" y="56" width="80" height="105" fill="url(#beamg)"/>
 </g>
-<g clip-path="url(#ft)"><text class="foot" x="36" y="189">94 contributions in the last year  |  current streak: 1  |  longest streak: 6</text></g>
+<g clip-path="url(#ft)"><text class="foot" x="36" y="189">100 contributions in the last year  |  current streak: 1  |  longest streak: 6</text></g>
 <text x="671" y="209">Less</text>
 <rect x="701" y="199" width="12" height="12" rx="3" fill="#161b22"/>
 <rect x="716" y="199" width="12" height="12" rx="3" fill="#0e4429"/>
