@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="458" viewBox="0 0 300 458">
+<style>
+@keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+text { font-family: Consolas, 'Courier New', monospace; }
+.art { font-size: 6px; fill: #b6c2cf; white-space: pre; }
+.cap { opacity: 0; animation: in 0.6s ease-out 2.56s forwards; }
+.cur { opacity: 0; animation: blink 1s steps(1) 2.56s infinite; }
+.nm { font-size: 15px; font-weight: bold; fill: #e6edf3; }
+.rl { font-size: 12px; fill: #8b949e; }
+</style>
+<defs>
+<clipPath id="c0"><rect x="15" y="44" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.0s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="15" y="50" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.04s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="15" y="56" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.07s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="15" y="62" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.11s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="15" y="68" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.14s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="15" y="74" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.18s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="15" y="80" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.21s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c7"><rect x="15" y="86" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.25s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c8"><rect x="15" y="92" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.28s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c9"><rect x="15" y="98" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.32s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c10"><rect x="15" y="104" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.35s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c11"><rect x="15" y="110" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.39s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c12"><rect x="15" y="116" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.42s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c13"><rect x="15" y="122" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.46s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c14"><rect x="15" y="128" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.49s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c15"><rect x="15" y="134" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.53s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c16"><rect x="15" y="140" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.56s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c17"><rect x="15" y="146" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.6s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c18"><rect x="15" y="152" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.63s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c19"><rect x="15" y="158" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.67s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c20"><rect x="15" y="164" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.7s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c21"><rect x="15" y="170" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.74s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c22"><rect x="15" y="176" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.77s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c23"><rect x="15" y="182" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.81s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c24"><rect x="15" y="188" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.84s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c25"><rect x="15" y="194" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.88s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c26"><rect x="15" y="200" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.91s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c27"><rect x="15" y="206" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.95s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c28"><rect x="15" y="212" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="0.98s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c29"><rect x="15" y="218" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.02s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c30"><rect x="15" y="224" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.05s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c31"><rect x="15" y="230" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.09s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c32"><rect x="15" y="236" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.12s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c33"><rect x="15" y="242" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.16s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c34"><rect x="15" y="248" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.19s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c35"><rect x="15" y="254" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.23s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c36"><rect x="15" y="260" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.26s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c37"><rect x="15" y="266" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.3s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c38"><rect x="15" y="272" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.33s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c39"><rect x="15" y="278" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.37s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c40"><rect x="15" y="284" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.4s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c41"><rect x="15" y="290" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.44s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c42"><rect x="15" y="296" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.47s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c43"><rect x="15" y="302" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.51s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c44"><rect x="15" y="308" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.54s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c45"><rect x="15" y="314" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.58s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c46"><rect x="15" y="320" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.61s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c47"><rect x="15" y="326" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.65s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c48"><rect x="15" y="332" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.68s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c49"><rect x="15" y="338" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.72s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c50"><rect x="15" y="344" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.75s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c51"><rect x="15" y="350" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.79s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c52"><rect x="15" y="356" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.82s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c53"><rect x="15" y="362" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.86s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c54"><rect x="15" y="368" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.89s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c55"><rect x="15" y="374" width="0" height="7"><animate attributeName="width" from="0" to="270.0" begin="1.93s" dur="0.5s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="300" height="458" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="18" cy="16" r="4" fill="#ff5f56"/><circle cx="32" cy="16" r="4" fill="#ffbd2e"/><circle cx="46" cy="16" r="4" fill="#27c93f"/>
+<line x1="0" y1="30" x2="300" y2="30" stroke="#21262d"/>
+<text class="art" x="108.6" y="49" textLength="90.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c0)">.  :::l7I0Ill1:     .   .</text>
+<rect x="15" y="44" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.0s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.0s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="115.8" y="55" textLength="79.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c1)">:1111l740I7I##I:    :.</text>
+<rect x="15" y="50" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.04s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.04s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="97.8" y="61" textLength="104.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c2)">.17I0#888@@@@@@@88@@#1l40#84.</text>
+<rect x="15" y="56" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.07s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.07s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="79.8" y="67" textLength="133.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c3)">.:l740#8@@@@@@@@8@@8@@@@8@@@@@4l##. .</text>
+<rect x="15" y="62" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.11s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.11s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="76.2" y="73" textLength="129.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c4)">1I00II408888@@@@@@@@@@@@@@8@@8@@0I@0</text>
+<rect x="15" y="68" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.14s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.14s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="83.4" y="79" textLength="144.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c5)">.lI#@@@@@@@@@@@@@@@@@@@@@@@@@@@@880Il  .</text>
+<rect x="15" y="74" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.18s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.18s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="65.4" y="85" textLength="172.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c6)">.    I8@@88@@@@@@@@@@@@@@@@@@@8@@@@8@@@@@@0:   .</text>
+<rect x="15" y="80" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.21s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.21s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="72.6" y="91" textLength="158.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c7)">14#@@8@@@@@@@@@@@@@@@@@@@@@@8@88@@8@888@@8I:</text>
+<rect x="15" y="86" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.25s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.25s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="97" textLength="194.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c8)">.:1lI08@@@@@@@@@@@@@@@@@@@@@@@@@@@@@88@@#0@8@@8@@8#47:</text>
+<rect x="15" y="92" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.28s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.28s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="103" textLength="190.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c9)">.1I#470@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@I#@@@@8@471:</text>
+<rect x="15" y="98" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.32s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.32s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="54.6" y="109" textLength="183.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c10)">ll  1@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l@@@@8@#11</text>
+<rect x="15" y="104" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.35s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.35s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="115" textLength="187.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c11)">:7   0@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@48@@@@@@4I</text>
+<rect x="15" y="110" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.39s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.39s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="121" textLength="194.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c12)">:7  7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#7:</text>
+<rect x="15" y="116" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.42s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.42s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="54.6" y="127" textLength="201.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c13)">ll0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@II71:</text>
+<rect x="15" y="122" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.46s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.46s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="58.2" y="133" textLength="198.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c14)">8@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8@7 :::</text>
+<rect x="15" y="128" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.49s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.49s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="47.4" y="139" textLength="194.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c15)">. 4@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8@I</text>
+<rect x="15" y="134" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.53s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.53s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="145" textLength="194.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c16)">:@#8@@@@@@@@@@@88@@@#8@@@@@@@@@@@@@8I88@@@@@@@@@@@@@81</text>
+<rect x="15" y="140" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.56s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.56s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="151" textLength="205.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c17)">4#.#@8@@@@@@@@878@@@78@@@@@@@@@@@@@87#@8@@@@@@@@@@@08@I1:</text>
+<rect x="15" y="146" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.6s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.6s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="47.4" y="157" textLength="208.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c18)">.I. #@8@@@@@@@@#4#@@@0#@8@@@@@@@88@@07l4@88@@@@@@@8@7.7Il:</text>
+<rect x="15" y="152" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.63s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.63s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="163" textLength="187.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c19)">1 :8@@8@@@@@@81  4#8#.70@@@@@@@0#@8l::1@4#@@@@@@@@84</text>
+<rect x="15" y="158" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.67s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.67s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="58.2" y="169" textLength="187.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c20)">:#I8@@@@@@@@4I00#8@#048@8@@@848#@@@@80488@@@@@@044 .</text>
+<rect x="15" y="164" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.7s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.7s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="61.8" y="175" textLength="172.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c21)">0Il@8@8@@8007I#8@#I77I@@@@@71l 70047:7I#@8@87#1l</text>
+<rect x="15" y="170" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.74s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.74s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="65.4" y="181" textLength="165.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c22)">11@@8@@8@Il1.:11:   7@#488I      .1::I@8@#7 0I</text>
+<rect x="15" y="176" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.77s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.77s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="69.0" y="187" textLength="165.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c23)">78Il4@8#@41:.   .. 4# l:74  .    .1I@#@4  1I7:</text>
+<rect x="15" y="182" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.81s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.81s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="65.4" y="193" textLength="158.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c24)">.1l1 .74l44:       :41    II.      :I4l7:.17</text>
+<rect x="15" y="188" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.84s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.84s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="76.2" y="199" textLength="144.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c25)">l1:1 11771:..:1741 ::   lI7l111lI77: :ll</text>
+<rect x="15" y="194" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.88s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.88s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="79.8" y="205" textLength="136.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c26)">1l1::l 177II77l   ::     1lllll l71l1:</text>
+<rect x="15" y="200" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.91s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.91s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="87.0" y="211" textLength="122.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c27)">11lI4                        18@0:</text>
+<rect x="15" y="206" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.95s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.95s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="94.2" y="217" textLength="111.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c28)">:#@4  .                .  188#.</text>
+<rect x="15" y="212" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="0.98s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="0.98s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="97.8" y="223" textLength="104.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c29)">1l4#l   .   :1111:  .   I@0 :</text>
+<rect x="15" y="218" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.02s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.02s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="108.6" y="229" textLength="86.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c30)">7401   . .......   788Il</text>
+<rect x="15" y="224" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.05s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.05s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="115.8" y="235" textLength="79.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c31)">#@07:    .     l#@07 .</text>
+<rect x="15" y="230" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.09s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.09s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="108.6" y="241" textLength="82.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c32)">. I@@@84l.    :7#@81lI.</text>
+<rect x="15" y="236" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.12s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.12s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="108.6" y="247" textLength="86.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c33)">.ll888@@@#4I748@@0: I0I7</text>
+<rect x="15" y="242" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.16s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.16s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="108.6" y="253" textLength="90.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c34)">ll78@@88@@@@@@@87   0@411</text>
+<rect x="15" y="248" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.19s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.19s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="105.0" y="259" textLength="93.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c35)">.l:@#I8@@@888@84:    #@l:7</text>
+<rect x="15" y="254" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.23s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.23s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="94.2" y="265" textLength="111.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c36)">.  71 4# :7#@@@@01     .8#  47:</text>
+<rect x="15" y="260" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.26s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.26s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="97.8" y="271" textLength="122.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c37)">18#   I1   l441       10:  1@@4  .</text>
+<rect x="15" y="266" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.3s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.3s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="90.6" y="277" textLength="126.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c38)">:I8@7 :  l1            1l   . I@@#1</text>
+<rect x="15" y="272" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.33s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.33s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="65.4" y="283" textLength="180.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c39)">.    l48@@#..:   1l:  .     :1:   .: 1@8@847:    .</text>
+<rect x="15" y="278" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.37s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.37s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="54.6" y="289" textLength="183.6" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c40)">.    1I#@@@8@7 .      1l:    l1.     :. :8@8@@@84l:</text>
+<rect x="15" y="284" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.4s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.4s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="61.8" y="295" textLength="187.2" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c41)">1I#@@@@8@8@4         1l7. 111l .      l@@@@88@@@80I1</text>
+<rect x="15" y="290" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.44s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.44s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="51.0" y="301" textLength="208.8" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c42)">:I#@@@@8@@@@@@#l .     I81:7:: #8:      .I@@@@@@@@8@@@8#7:</text>
+<rect x="15" y="296" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.47s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.47s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="40.2" y="307" textLength="230.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c43)">:708@@@88@@@@@@@@l71     7@@8744l0@@0    .l:I@8@@@@@@@@88@@@807:</text>
+<rect x="15" y="302" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.51s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.51s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="29.4" y="313" textLength="252.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c44)">:708@@@88@@@@@@@@@8@7 I: . 18@@@@@@@@@@@7 . ll 0@8@@@@@@@@@@@88@@@84l.</text>
+<rect x="15" y="308" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.54s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.54s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="18.6" y="319" textLength="266.4" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c45)">.l48@@@88@@@@@@@@@@@@8@0 1I  11148@8@@8@8778: 17 18@@@@@@@@@@@@@@@@88@@@#4</text>
+<rect x="15" y="314" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.58s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.58s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="325" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c46)">4#@@@88@@@@@@@@@@@@@@@@@8: l1.l  .I@8@@8@I  l0.7. 7@8@@@@@@@@@@@@@@@@@@8@@@</text>
+<rect x="15" y="320" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.61s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.61s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="331" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c47)">@@88@@@@@@@@@@@@@@@@@@@8@7 ::0l . 18@@@@81:: l01 :4@8@@@@@@@@@@@@@@@@@@@@@8</text>
+<rect x="15" y="326" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.65s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.65s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="337" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c48)">8@@@@@@@@@@@@@@@@@@@@@@8@0  1l71 . 4@88@I.. . 1 :1#@8@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="332" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.68s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.68s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="343" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c49)">@@@@@@@@@@@@@@@@@@@@@@@@@@l :: :   l@@8@7   11   l@8@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="338" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.72s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.72s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="349" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c50)">@@@@@@@@@@@@@@@@@@@@@@@@8@0  ::  . 7@88@4 .  ..  #@8@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="344" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.75s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.75s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="355" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c51)">@@@@@@@@@@@@@@@@@@@@@@@@@@@l ..  . 4@88@0   .:: 7@8@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="350" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.79s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.79s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="361" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c52)">@@@@@@@@@@@@@@@@@@@@@@@@@@@#::.    #@@@@#   .. :8@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="356" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.82s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.82s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="367" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c53)">@@@@@@@@@@@@@@@@@@@@@@@@@@8@4 1:  :8@@@@8:     0@8@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="362" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.86s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.86s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="373" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c54)">@@@@@@@@@@@@@@@@@@@@@@@@@@@8@7 :: l@@@@@@1    7@8@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="368" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.89s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.89s" dur="0.5s" fill="freeze"/></rect>
+<text class="art" x="15.0" y="379" textLength="270.0" lengthAdjust="spacing" xml:space="preserve" clip-path="url(#c55)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@81 : 7@8@@@@7 . l@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect x="15" y="374" width="3" height="6" fill="#58a6ff" opacity="0"><animate attributeName="x" from="15" to="285.0" begin="1.93s" dur="0.5s" fill="freeze"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.95;1" begin="1.93s" dur="0.5s" fill="freeze"/></rect>
+<g class="cap"><text class="nm" x="17" y="414">rohit</text>
+<text class="rl" x="17" y="434">Full-Stack Developer</text></g>
+<rect class="cur" x="157" y="422" width="7" height="13" fill="#58a6ff"/>
+</svg>
